@@ -1,4 +1,4 @@
-# GupShup - MCP Wikipedia Assistant
+# MCP Wikipedia Assistant
 
 A comprehensive Wikipedia assistant built with Model Context Protocol (MCP) integration, featuring CloudNatix API support and Ollama summarization capabilities.
 

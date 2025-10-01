@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp-server-motherduck": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-motherduck",
+        "--db-path",
+        "./sample.db"
+      ]
+    },
+    "Zapier": {
+      "url": "https://mcp.zapier.com/api/mcp/s/NGEyMGFkYzItZDA1MC00OTA0LTllNDUtOTg1OGE4MDMzYjk3OjE2ZGNiNTgxLTc5ZTMtNGVmYy04NjU4LTQyYTE0NTMwZjI3MQ==/mcp"
+    }
+  }
+}
